@@ -1,0 +1,6 @@
+[submodule "tools/PS3_SC_EEPROM_TOOL"]
+	path = tools/PS3_SC_EEPROM_TOOL
+	url = ../PS3_SC_EEPROM_TOOL.git
+[submodule "tools/PyPS3tools"]
+	path = tools/PyPS3tools
+	url = ../../littlebalup/PyPS3tools.git
